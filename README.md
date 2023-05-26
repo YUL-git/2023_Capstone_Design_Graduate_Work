@@ -1,19 +1,23 @@
-# 2023 AI Factory Outlier Detection Air Compressor faults Top 6% Solution
-AI solution that Outlier detection of Air Compressor
+# 2023 Transformer-Based AI PDF Paper English Machine Translation Model
+Implementing an AI paper translation model for English PDF
 
 ## Solution Overview
 ![overview image](./figures/overview.png)
 
 ## Team member  
 |<img src="https://avatars.githubusercontent.com/YUL-git" width="100">|<img src="https://avatars.githubusercontent.com/lastdefiance20" width="100">|<img src="https://avatars.githubusercontent.com/HannahYun" width="100">|<img src="https://avatars.githubusercontent.com/onsemiro11" width="100">|  
-|-|-|-|-|
-|[Jiyul Ham](https://github.com/YUL-git), Leader|[Jaeyoon Jung](https://github.com/lastdefiance20)|[Hannah Yun](https://github.com/HannahYun)|[Hyundo Lee](https://github.com/onsemiro11)|
+|-|-|
+|[Jiyul Ham](https://github.com/YUL-git),|[Hyundo Lee](https://github.com/onsemiro11)|  
 
 ## File Structure
 ```
 ┖ figures
   ┖ ~
-┖ AE_ABOD_SOTA_.ipynb
+┖ Capstone_NMT.ipynb
+┖ Data
+ ┖ ~
+┖ 함지율 졸업 작품.pdf
+┖ 함지율 졸업 작품 포스터.pdf  
 ```
   
 AE_ABOD.ipynb  
