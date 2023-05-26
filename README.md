@@ -27,4 +27,4 @@ We train and evaluate our model using the dataset from [English to Korean transl
 We train and evaluate our model using the dataset from [English to Korean translation Dataset 2](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71265)
 
 ## Transformer Model Architecture  
-In pytorch-transformer-main file
+We use transformer architecture in this git repository[Transformer Architecture](https://github.com/nawnoes/pytorch-transformer)
