@@ -7,7 +7,7 @@ Implementing an AI paper translation model for English PDF
 ## Team member  
 |<img src="https://avatars.githubusercontent.com/YUL-git" width="100">|<img src="https://avatars.githubusercontent.com/onsemiro11" width="100">|  
 |-|-|
-|[Jiyul Ham](https://github.com/YUL-git),|[Hyundo Lee](https://github.com/onsemiro11)|  
+|[Jiyul Ham](https://github.com/YUL-git)|[Hyundo Lee](https://github.com/onsemiro11)|  
 
 ## File Structure
 ```
