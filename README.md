@@ -5,7 +5,7 @@ Implementing an AI paper translation model for English PDF
 ![overview image](./figures/overview.png)
 
 ## Team member  
-|<img src="https://avatars.githubusercontent.com/YUL-git" width="100">|<img src="https://avatars.githubusercontent.com/lastdefiance20" width="100">|<img src="https://avatars.githubusercontent.com/HannahYun" width="100">|<img src="https://avatars.githubusercontent.com/onsemiro11" width="100">|  
+|<img src="https://avatars.githubusercontent.com/YUL-git" width="100">|<img src="https://avatars.githubusercontent.com/onsemiro11" width="100">|  
 |-|-|
 |[Jiyul Ham](https://github.com/YUL-git),|[Hyundo Lee](https://github.com/onsemiro11)|  
 
