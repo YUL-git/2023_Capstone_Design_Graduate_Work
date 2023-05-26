@@ -2,8 +2,8 @@
 Implementing an AI paper translation model for English PDF
 
 ## Solution Overview
-![overview image](./figures/overview.png)
-![overview poster image](./figures/함지율 졸업 포스터.pdf)
+![overview image](./figures/overview.png)  
+
 ## Team member  
 |<img src="https://avatars.githubusercontent.com/YUL-git" width="100">|<img src="https://avatars.githubusercontent.com/onsemiro11" width="100">|  
 |-|-|
@@ -19,9 +19,8 @@ Implementing an AI paper translation model for English PDF
 ┖ 함지율 졸업 작품.pdf
 ┖ 함지율 졸업 작품 포스터.pdf  
 ```
-  
-AE_ABOD.ipynb  
-- Train and Test the Unsupervised classification model
+## Project Poster Overview
+![overview poster image](./figures/overview_2.png)  
 
 ## Dataset Overview
 ![overview image](./figures/data_overview.png)  
