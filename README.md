@@ -3,7 +3,7 @@ Implementing an AI paper translation model for English PDF
 
 ## Solution Overview
 ![overview image](./figures/overview.png)
-
+![overview poster image](./figures/함지율 졸업 포스터.pdf)
 ## Team member  
 |<img src="https://avatars.githubusercontent.com/YUL-git" width="100">|<img src="https://avatars.githubusercontent.com/onsemiro11" width="100">|  
 |-|-|
