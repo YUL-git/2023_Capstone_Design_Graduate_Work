@@ -14,7 +14,7 @@ Implementing an AI paper translation model for English PDF
 ┖ figures
   ┖ ~
 ┖ Capstone_NMT.ipynb
-┖ 함지율 졸업 작품.pdf
+┖ 졸업 발표.pdf
 ┖  pytorch-transformer-main
   ┖ ~   
 ```
@@ -26,5 +26,5 @@ We train and evaluate our model using the dataset from [English to Korean transl
 
 We train and evaluate our model using the dataset from [English to Korean translation Dataset 2](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71265)
 
-## Submission Process  
-Run All code in 'AE_ABOD.ipynb' to classify abnomalies of air compressor
+## Transformer Model Architecture  
+In pytorch-transformer-main file
