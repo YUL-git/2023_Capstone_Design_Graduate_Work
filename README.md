@@ -14,19 +14,17 @@ Implementing an AI paper translation model for English PDF
 ┖ figures
   ┖ ~
 ┖ Capstone_NMT.ipynb
-┖ Data
- ┖ ~
 ┖ 함지율 졸업 작품.pdf
-┖ 함지율 졸업 작품 포스터.pdf  
+┖  pytorch-transformer-main
+  ┖ ~   
 ```
 ## Project Poster Overview
 ![overview poster image](./figures/overview_2.png)  
 
-## Dataset Overview
-![overview image](./figures/data_overview.png)  
-We train and evaluate our model using the dataset from [Outlier detection of Air Compressor](https://aifactory.space/competition/data/2226)
+## Dataset
+We train and evaluate our model using the dataset from [English to Korean translation Dataset 1](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71266)  
 
-we assume that you have downloaded it and placed based on File Structure, inside the dataset folder.
+We train and evaluate our model using the dataset from [English to Korean translation Dataset 2](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71265)
 
 ## Submission Process  
 Run All code in 'AE_ABOD.ipynb' to classify abnomalies of air compressor
